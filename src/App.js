@@ -167,7 +167,7 @@ const styles = {
   container: {
     display: 'flex',
     padding: 12,
-    textAlign: "center"
+    textAlign: "center",
 
   },
 
