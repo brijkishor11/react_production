@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_production/static/css/main.330e9c76.chunk.css",
+    "main.css": "/react_production/static/css/main.ea6fbef7.chunk.css",
     "main.js": "/react_production/static/js/main.acee2cf1.chunk.js",
     "main.js.map": "/react_production/static/js/main.acee2cf1.chunk.js.map",
     "runtime-main.js": "/react_production/static/js/runtime-main.1ac89120.js",
@@ -8,9 +8,9 @@
     "static/js/2.3bdef7b9.chunk.js": "/react_production/static/js/2.3bdef7b9.chunk.js",
     "static/js/2.3bdef7b9.chunk.js.map": "/react_production/static/js/2.3bdef7b9.chunk.js.map",
     "index.html": "/react_production/index.html",
-    "precache-manifest.fc96368ca556d21c1e40797f8090f368.js": "/react_production/precache-manifest.fc96368ca556d21c1e40797f8090f368.js",
+    "precache-manifest.8ff0ca23452f4978e53ffdfef936679d.js": "/react_production/precache-manifest.8ff0ca23452f4978e53ffdfef936679d.js",
     "service-worker.js": "/react_production/service-worker.js",
-    "static/css/main.330e9c76.chunk.css.map": "/react_production/static/css/main.330e9c76.chunk.css.map",
+    "static/css/main.ea6fbef7.chunk.css.map": "/react_production/static/css/main.ea6fbef7.chunk.css.map",
     "static/js/2.3bdef7b9.chunk.js.LICENSE": "/react_production/static/js/2.3bdef7b9.chunk.js.LICENSE",
     "static/media/amul_ghee.jpg": "/react_production/static/media/amul_ghee.8315e9a3.jpg",
     "static/media/fortune_rice.jpg": "/react_production/static/media/fortune_rice.c8cb1af3.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.1ac89120.js",
     "static/js/2.3bdef7b9.chunk.js",
-    "static/css/main.330e9c76.chunk.css",
+    "static/css/main.ea6fbef7.chunk.css",
     "static/js/main.acee2cf1.chunk.js"
   ]
 }
